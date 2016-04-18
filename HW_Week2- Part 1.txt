@@ -1,0 +1,19 @@
+Part 1:
+
+1.) The three design advantages of OO are:
+    -Abstraction: Abstraction hides the information that a method uses internally akin the the way a doorknob hides the various mechanical parts that allow the knob to turn. 
+    -Encapsulation: Encapsulation keeps everything bundled together so that we don't have to remember the pieces that we don't need. This is akin to taking a multiviitamin, rather than having to remember to take separate vitamins for vitamin C, vitamin B12, etc every day. In the robot example from our hw, it allowed us to assign one job to each robot and call that specific method only when necessary.
+    -Polymorphism: Polymorphism allows for one to treat like things alike and for the interchangeability of various components. In the example Pet class that we created this week, it allowed us to easily create the cat and dog subclasses or instances of each (i.e. Fido and Arfy or Cat and Dog.)
+
+2.) Classes are a modeling technique akin to a sort of blueprint to logically group functions and data together. When defining each class in a particular program, one can create a superclass that neatly defines methods that are common to all subclasses. This is the basic concept of inheritance. Defining a class only creates the blueprint, however. To create a class object, one must instantiate a class object.
+
+3.) An instance attribute is an attribute or piece of data that is found on the instance itself. 
+
+4.)A method is a function that is defined inside of a particular class. It creates a set of instructions for each instance of that class object to do a specific thing.
+
+5.)An instance is created upon instantiation of a class object. It is defined inside a class and inside of a method and is only one particular instance of the class itself. For example, one defined a class 'Student', I Cristina would be the particular instance of a student.
+
+6.) A class attribute is an attribute or piece of data that is found on the class itself. If an instance first looks to itself to see if it possesses a particular attribute and if it does not, it looks to it's class to see if it is there. You would use a class attribute to describe features that all cats might have in common whereas you would use an instance attribute to describe a feature particular to an instance of Fluffy the cat. 
+
+
+
